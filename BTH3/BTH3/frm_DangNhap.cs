@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BTH3
 {
-    public partial class Form1 : Form
+    public partial class frm_DangNhap : Form
     {
-        public Form1()
+        public frm_DangNhap()
         {
             InitializeComponent();
         }

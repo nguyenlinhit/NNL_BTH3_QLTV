@@ -1,1 +1,2 @@
 D:\Quan que\BTH3\BTH3\bin\Debug\BTH3.exe.config
+E:\Nam4\BTH3\NNL_BTH3_QLTV\BTH3\BTH3\bin\Debug\BTH3.exe.config
